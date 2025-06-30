@@ -22,7 +22,7 @@
 
 ### Databases
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="SQL Server" width="35px" src="[https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg)" />
+<img align="left" alt="SQL Server" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 <br/>
 
 ### IDE, Code Editors & Version Control System
